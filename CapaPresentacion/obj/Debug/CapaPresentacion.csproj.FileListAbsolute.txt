@@ -1,0 +1,10 @@
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.MenuCafeteria.resources
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Visual Estudio\Repos\Construcción de Software\Sistema Cafeteria\SistemaCafeteria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
